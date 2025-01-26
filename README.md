@@ -100,7 +100,7 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 ## 📷 Screenshots
 
-<img src=<img src="C:/Users/saivi/OneDrive/Pictures/Screenshots/Screenshot_151045.png" alt="Screenshot">
+<img src=<img src="C:/Users/saivi/OneDrive/Pictures/Screenshots/Screenshot_151045.png" alt="Screenshot"/>
 
 
 <img src="C:\Users\saivi\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 150911.png" width="300px" />
